@@ -1,0 +1,37 @@
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\appsettings.Development.json
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\appsettings.json
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Generic Contrller.exe
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Generic Contrller.deps.json
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Generic Contrller.runtimeconfig.json
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Generic Contrller.runtimeconfig.dev.json
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Generic Contrller.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\ref\Generic Contrller.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Generic Contrller.pdb
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.csprojAssemblyReference.cache
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.AssemblyInfoInputs.cache
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.AssemblyInfo.cs
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.csproj.CoreCompileInputs.cache
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.MvcApplicationPartsAssemblyInfo.cs
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.MvcApplicationPartsAssemblyInfo.cache
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\staticwebassets\Generic Contrller.StaticWebAssets.Manifest.cache
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\staticwebassets\Generic Contrller.StaticWebAssets.xml
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\scopedcss\bundle\Generic Contrller.styles.css
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.RazorTargetAssemblyInfo.cache
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.csproj.CopyComplete
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\ref\Generic Contrller.dll
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.pdb
+D:\Remon\Generic Controller\Generic Contrller\Generic Contrller\obj\Debug\net5.0\Generic Contrller.genruntimeconfig.cache
